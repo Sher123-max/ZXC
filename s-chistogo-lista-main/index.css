@@ -1,0 +1,97 @@
+* {
+    border: 1px solid red;     
+  }
+  
+  .padding {
+    background-color: rgba(46, 46, 46, 0.938);
+    padding-top: 10px;
+    width: 500px;
+  }
+  .HH {
+    height: 75px;
+    width: 250px;
+    background-color: rgb(109, 109, 250);
+  }
+  .SS {
+    height: 100px;
+    width: 250px;
+  }
+  .FF {
+    text-align: center;
+    font-size: 20px;
+    height: 99px;
+    width: 275px;
+  }
+  .sectionz {
+    height: 100vh;
+    padding: 4vh;
+    width: 95vw;
+  }
+  .banner {
+    width: 100vw;
+  }
+  .A86 {
+    margin: auto;
+    background-position: 25px;
+    padding: 2vh;
+    height: 350px;
+    width: 463px;
+  }
+  .title {
+    margin: auto;
+    position: relative;
+    background-color: rgb(109, 109, 250);
+    font-size: 20px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: black;
+    width: 250px;
+    height: 150px;
+    overflow: scroll;
+    margin-bottom: 20px;
+  }
+  .subtitle {
+    margin: auto;
+    position: relative;
+    background-color: rgb(109, 109, 250);
+    font-size: 20px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: black;
+    width: 250px;
+    height: 150px;
+    overflow: scroll;
+    margin-bottom: 20px;
+  }
+  .block1 {
+      text-align: center;
+    margin: auto;
+    margin-bottom: 22px;
+    background-color: lightgreen;
+    width: 300px;
+  }
+  .block2 {
+      text-align: center;
+    margin: auto;
+    width: 400px;
+    margin-top: 33px;
+    background-color: lightgreen;
+  }  
+  .block3 {
+      text-align: center;
+      margin: auto;
+      width: 500px;
+      margin-top: 33px;
+      background-color: lightgreen;
+  }
+  .DD {
+      overflow: hidden;
+      top: 20px;
+      position: relative;
+      width: 350px;
+      height: 150px;
+      margin: auto;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      margin-bottom: 20px;
+      text-align: center;
+      background-color: blueviolet;
+      color: aliceblue;
+  }
